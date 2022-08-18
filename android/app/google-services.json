@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533529496444",
+    "project_id": "moreviews-8b094",
+    "storage_bucket": "moreviews-8b094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533529496444:android:e8b4de056c963bc3c472f9",
+        "android_client_info": {
+          "package_name": "com.moreviews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533529496444-hki6b4tcq3hih7jvfvdh2i2b9icqdjqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR0-LRpQMQsRRMz1RxT2Gn-hBqJNnjpAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533529496444-hki6b4tcq3hih7jvfvdh2i2b9icqdjqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
